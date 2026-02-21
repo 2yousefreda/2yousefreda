@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yousef Reda
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=3000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Backend+Developer;Laravel+%7C+FastAPI+%7C+NestJS+%7C+Django;Building+Scalable+Systems;Always+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=3000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Backend+Developer;Laravel+%7C+FastAPI+%7C+NestJS+%7C+Django+%7C+ExpressJS;Building+Scalable+Systems;Always+Learning+New+Tech)
 
 ---
 
