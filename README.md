@@ -23,10 +23,13 @@
 
 ### 💻 Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge\&logo=fastapi)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge\&logo=nestjs)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge\&logo=django)
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
 ### ⚙️ Tools
 
@@ -36,10 +39,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=2yousefreda\&theme=tokyonight\&hide_border=true)
 
