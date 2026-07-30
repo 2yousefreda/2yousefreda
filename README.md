@@ -282,6 +282,18 @@
 
 <div align="center">
 
+# 3D CONTRIBUTION CUBE
+
+<br>
+
+<img src="https://github-profile-3d-contrib.puppetk.workers.dev?username=2yousefreda&theme=radical" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
 # GITHUB TROPHIES
 
 <img src="https://github-profile-trophy.vercel.app/?username=2yousefreda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
@@ -302,11 +314,13 @@
 
 <div align="center">
 
-# THE CODE GUARDIAN
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5YTFoc3dhaTBrZWdzbjBzeHZrdWtybHFsd2dzcmZtbW90bHlzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpoUO905fzD8fJ8UBXY/giphy.gif" alt="Dragon Guardian" width="350"/>
+# THE 3D CODE GUARDIAN
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="3D Dragon Guardian" width="380"/>
+
+<br><br>
 
 `GUARDING THE BACKEND ARCHITECTURE & SCALABLE APIS`
 
