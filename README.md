@@ -269,42 +269,18 @@
 
 <br>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2yousefreda&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-# 3D CONTRIBUTION CUBE
-
-<br>
-
-<img src="https://github-profile-3d-contrib.puppetk.workers.dev?username=2yousefreda&theme=radical" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=2yousefreda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
 
 # CONTRIBUTION GRAPH
 
-<div align="center">
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2yousefreda&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
@@ -314,11 +290,11 @@
 
 <div align="center">
 
-# THE 3D CODE GUARDIAN
+# THE CODE GUARDIAN
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="3D Dragon Guardian" width="380"/>
+<img src="https://cdn.pixabay.com/animation/2023/04/11/08/17/08-17-08-361_512.gif" alt="Dragon Guardian" width="300"/>
 
 <br><br>
 
