@@ -269,8 +269,8 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br><br>
 
@@ -302,9 +302,13 @@
 
 <div align="center">
 
-# CONTRIBUTION SNAKE
+# THE CODE GUARDIAN
 
-<img src="https://raw.githubusercontent.com/2yousefreda/2yousefreda/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5YTFoc3dhaTBrZWdzbjBzeHZrdWtybHFsd2dzcmZtbW90bHlzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpoUO905fzD8fJ8UBXY/giphy.gif" alt="Dragon Guardian" width="350"/>
+
+<br>
+
+`GUARDING THE BACKEND ARCHITECTURE & SCALABLE APIS`
 
 </div>
 
