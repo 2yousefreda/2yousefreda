@@ -269,12 +269,12 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=2yousefreda&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2yousefreda&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -295,6 +295,16 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2yousefreda&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/2yousefreda/2yousefreda/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
