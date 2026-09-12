@@ -76,9 +76,10 @@
 ### SECURITY & AUTH
 
 `JWT`
-`OTP`
-`2FA`
+`OTP / 2FA`
 `OAuth`
+`Helmet.js`
+`Rate Limiting`
 
 </td>
 
@@ -200,12 +201,12 @@
 
 ### SECURITY
 
-**Auth Systems**
+**Auth & Protection**
 
-`JWT`
-`OTP`
-`2FA`
-`OAuth`
+`JWT / OAuth`
+`OTP & 2FA`
+`Helmet.js`
+`Rate Limiting`
 
 </td>
 
@@ -254,10 +255,12 @@
 <img src="https://img.shields.io/badge/OTP-F97316?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/2FA-EF4444?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OAUTH-EB5424?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HELMET-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RATE_LIMITING-00BFFF?style=for-the-badge"/>
 
 <br><br>
 
-`Authentication` · `Authorization` · `JWT` · `OTP` · `2FA` · `OAuth` · `Secure API Gateways`
+`Authentication` · `Authorization` · `JWT` · `OTP` · `2FA` · `OAuth` · `Helmet.js` · `Rate Limiting` · `Secure API Gateways`
 
 </div>
 
@@ -269,8 +272,8 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%"/>
 
 </div>
 
@@ -278,27 +281,11 @@
 
 <div align="center">
 
-# CONTRIBUTION GRAPH
+# CONTRIBUTION & STREAK
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2yousefreda&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# THE CODE GUARDIAN
-
-<br>
-
-<img src="https://cdn.pixabay.com/animation/2023/04/11/08/17/08-17-08-361_512.gif" alt="Dragon Guardian" width="300"/>
-
-<br><br>
-
-`GUARDING THE BACKEND ARCHITECTURE & SCALABLE APIS`
+<img src="https://streak-stats.demolab.com?user=2yousefreda&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
