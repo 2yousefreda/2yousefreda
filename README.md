@@ -136,7 +136,7 @@ Timeouts, error normalization, Python 3.7+ support, and releases kept in sync wi
 
 ### Dubbing Management System
 
-Multi-stage dubbing and translation evaluation platform used daily by internal staff across dozens of languages.
+Multi-stage dubbing and translation evaluation platform used by internal staff across dozens of languages.
 
 - Webhook receiver and polling sync with an external translation management system
 - OTP password reset with hashed codes, timing-safe comparison, and rate limiting
@@ -344,7 +344,7 @@ Grades Arabic-to-target translations of Islamic texts on a 10-tier rubric, with 
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2yousefreda&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://ghchart.rshah.org/7C3AED/2yousefreda" alt="2yousefreda contribution chart" width="100%"/>
 
 </div>
 
