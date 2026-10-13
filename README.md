@@ -24,7 +24,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=2yousefreda&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://hits.sh/github.com/2yousefreda.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7C3AED&labelColor=0D1117" alt="Profile views"/>
 
 </div>
 
