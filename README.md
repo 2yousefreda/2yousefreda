@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=NESTJS+%7C+EXPRESSJS+%7C+LARAVEL+%7C+DJANGO;MYSQL+%7C+POSTGRESQL+%7C+MONGODB+%7C+REDIS;JWT+%7C+OTP+%7C+2FA+%7C+OAUTH;BUILDING+SCALABLE+BACKENDS+%26+RESTFUL+APIS" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=NESTJS+%7C+EXPRESS+%7C+LARAVEL+%7C+DJANGO+%7C+FASTAPI;POSTGRESQL+%7C+MYSQL+%7C+MONGODB+%7C+REDIS;OPEN-SOURCE+SDKS+%26+MCP+SERVER+FOR+AI+AGENTS;BUILDING+SECURE+%26+SCALABLE+BACKENDS" alt="Typing SVG"/>
 
 <br><br>
 
@@ -14,10 +14,13 @@
 <a href="https://www.linkedin.com/in/yousef-red2/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="mailto:2yousefreda@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,laravel,php,python,django,fastapi,cpp,js,ts,mysql,postgres,mongodb,redis,git,github,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,ts,laravel,php,python,django,fastapi,postgres,mysql,mongodb,redis,docker,githubactions,aws&theme=dark"/>
 
 <br><br>
 
@@ -31,194 +34,287 @@
 
 # ABOUT ME
 
-### I'm **Yousef Reda** — Back-End Developer & Computer Science Student.
+### I'm **Yousef Reda**, a Back-End Developer based in Cairo, Egypt.
 
-**I build secure RESTful APIs, scalable backend architecture, and robust database models.**
+**I build secure REST APIs, well-modeled databases, and backends that stay fast as the data grows.**
 
 <br>
 
 <img src="https://img.shields.io/badge/FOCUS-BACKEND-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ECOSYSTEM-NODE.JS%20%26%20PHP%20%26%20PYTHON-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MINDSET-ENGINEERING-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WORKING-REMOTELY-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-REMOTE%20ROLES-00BFFF?style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### BACKEND
-
-`NestJS`
-`Express.js`
-`Laravel`
-`Django`
-`FastAPI`
-
-</td>
-
-<td align="center" width="25%">
-
-### DATABASES & CACHING
-
-`MySQL`
-`PostgreSQL`
-`MongoDB`
-`Redis`
-
-</td>
-
-<td align="center" width="25%">
-
-### SECURITY & AUTH
-
-`JWT`
-`OTP / 2FA`
-`OAuth`
-`Helmet.js`
-`Rate Limiting`
-
-</td>
-
-<td align="center" width="25%">
-
-### LANGUAGES & FRONTEND
-
-`C++`
-`JavaScript`
-`TypeScript`
-`Python`
-`PHP`
-`HTML/CSS/Bootstrap`
-
-</td>
-
-</tr>
-</table>
+```text
+ Currently  ->  Backend Software Engineer @ Islamic Content Service Association (remote)
+ Before     ->  Backend Developer @ Taha World (Laravel, live real estate platform)
+ Shipped    ->  9 products: LMS, dubbing workflow platform, Arabic search engine, CMS,
+                AI translation evaluator, developer portal, assessment platform,
+                plus an MCP server and 2 open-source SDKs
+ Style      ->  requirements -> schema -> API -> auth -> integrations -> CI/CD -> maintain
+```
 
 ---
 
 <div align="center">
 
-# MY TOOLBOX
-
-### BACKEND FRAMEWORKS
-
-<img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,laravel,django,fastapi&theme=dark"/>
+# PUBLISHED OPEN SOURCE
 
 <br>
 
-`NestJS` · `Express.js` · `Node.js` · `Laravel` · `Django` · `FastAPI`
-
-<br><br>
-
-### DATABASES & IN-MEMORY STORE
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
-
-<br>
-
-`MySQL` · `PostgreSQL` · `MongoDB` · `Redis`
-
-<br><br>
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,html,css,bootstrap&theme=dark"/>
-
-<br>
-
-`JavaScript` · `TypeScript` · `Python` · `PHP` · `C++` · `HTML5` · `CSS3` · `Bootstrap`
-
-<br><br>
-
-### TOOLS & WORKFLOW
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,jira&theme=dark"/>
-
-<br>
-
-`Git` · `GitHub` · `Postman` · `Jira`
-
-</div>
-
----
-
-<div align="center">
-
-# MAIN FOCUS
-
-<img src="https://img.shields.io/badge/MAIN_FOCUS-BACKEND_ENGINEERING-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEVEL--UP-MODE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILDING-SCALABLE_APIS-00BFFF?style=for-the-badge"/>
+<a href="https://www.npmjs.com/package/islamic-content-mcp-server">
+<img src="https://img.shields.io/npm/v/islamic-content-mcp-server?style=for-the-badge&logo=npm&label=MCP%20SERVER&color=CB3837"/>
+</a>
+<a href="https://www.npmjs.com/package/islamic-content-sdk">
+<img src="https://img.shields.io/npm/v/islamic-content-sdk?style=for-the-badge&logo=npm&label=TS%20SDK&color=CB3837"/>
+</a>
+<a href="https://pypi.org/project/islamic-content-sdk/">
+<img src="https://img.shields.io/pypi/v/islamic-content-sdk?style=for-the-badge&logo=pypi&logoColor=white&label=PYTHON%20SDK&color=3775A9"/>
+</a>
 
 <br><br>
 
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td width="33%" valign="top">
 
-### CORE BACKEND
+### MCP SERVER
 
-**Frameworks & Runtime**
+AI agents (Claude Desktop, Cursor) get verified Quran, Hadith, and Islamic research data through 7 domain tools, instead of guessing.
 
-`NestJS`
-`Express.js`
-`Laravel`
-`Django`
+`TypeScript` `MCP SDK` `npm`
 
-</td>
-
-<td align="center" width="20%">
-
-### API DESIGN
-
-**Architecture**
-
-`RESTful APIs`
-`Interceptors`
-`Middleware`
+**5/5** Tool Description Quality Score on the Glama registry. A response guard trims oversized payloads to a 40,000-character budget.
 
 </td>
 
-<td align="center" width="20%">
+<td width="33%" valign="top">
 
-### DATA STORE
+### TYPESCRIPT SDK
 
-**Persistence & Caching**
+One typed client for 6 Islamic REST APIs, with zero runtime dependencies on the native Fetch API.
 
-`MySQL / PostgreSQL`
-`MongoDB`
-`Redis Caching`
+`TypeScript` `tsup` `ESM + CJS`
 
-</td>
-
-<td align="center" width="20%">
-
-### SECURITY
-
-**Auth & Protection**
-
-`JWT / OAuth`
-`OTP & 2FA`
-`Helmet.js`
-`Rate Limiting`
+Dual builds, full `.d.ts` typings, and tree-shakeable imports for Node, browsers, and edge runtimes.
 
 </td>
 
-<td align="center" width="20%">
+<td width="33%" valign="top">
 
-### TOOLS
+### PYTHON SDK
 
-**Management & Version Control**
+The same unified client for Python developers, published on PyPI.
 
-`Git / GitHub`
-`Postman`
-`Jira`
+`Python` `requests` `PyPI`
+
+Timeouts, error normalization, Python 3.7+ support, and releases kept in sync with upstream APIs.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# FEATURED WORK
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### Dubbing Management System
+
+Multi-stage dubbing and translation evaluation platform used daily by internal staff across dozens of languages.
+
+- Webhook receiver and polling sync with an external translation management system
+- OTP password reset with hashed codes, timing-safe comparison, and rate limiting
+- Server-side pagination across 8+ reports, plus benchmarked PostgreSQL indexes (about 2x faster queries)
+- Audit log for 10+ event types, tested with Jest and Supertest (TDD)
+
+`Node.js` `Express` `PostgreSQL` `JWT` `Twilio` `Jest`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Gaafar Center LMS
+
+Multi-role learning platform for an Islamic academy.
+
+- Invoices, coupons, and manual payment approval
+- JWT with refresh-token rotation and RBAC
+- Real-time notifications over Server-Sent Events
+- MCQ quiz engine with atomic scoring and anti-cheating
+- AWS S3 storage and a GitHub Actions deployment pipeline
+
+`NestJS` `Prisma` `PostgreSQL` `AWS S3` `SSE`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### Rasel: Theses Search Engine
+
+Arabic full-text search over thousands of academic theses.
+
+- MeiliSearch with Arabic normalization (diacritics, Hamza forms) and tuned typo tolerance
+- BullMQ workers and disk-streamed uploads for batches of up to 10,000 files
+- Consistent deletion across disk, PostgreSQL, and the search index
+
+`NestJS` `MeiliSearch` `BullMQ` `Redis` `TypeORM`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Islamic Content CMS
+
+Digital library that tracks books down to phrase-level translation versions.
+
+- 13-entity PostgreSQL schema with independent revision histories
+- Extraction from PDF, DOCX, DOC, and XLSX
+- Custom decoder for legacy Arabic PDF fonts
+- Three external API integrations and a bulk importer
+
+`NestJS` `TypeORM` `PostgreSQL` `Swagger`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### TransEva: AI Translation Evaluator
+
+Grades Arabic-to-target translations of Islamic texts on a 10-tier rubric, with Arabic justifications and back-translations.
+
+- Strict JSON output from the LLM
+- Bulk Excel processing with per-row error containment
+
+`Python` `FastAPI` `Gemini API` `pandas`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Also built
+
+- **API Aggregator Platform:** developer portal and admin CMS with search, pagination, SendGrid, and rate limiting (NestJS)
+- **akhtbar:** exam platform with PDF certificates, Google OAuth, Pytest and Playwright tests (Django)
+- **Velanor:** anonymous messaging REST API with AI moderation (Laravel)
+- **Fruitkha:** e-commerce platform with Stripe (Laravel)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# TOOLBOX
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,laravel,django,fastapi&theme=dark"/>
+
+`NestJS` · `Express` · `Node.js` · `Laravel` · `Django` · `FastAPI`
+
+<br><br>
+
+### DATABASES, ORMS & SEARCH
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma&theme=dark"/>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `SQLite` · `TypeORM` · `Prisma` · `MeiliSearch` · `BullMQ`
+
+<br><br>
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,html,css&theme=dark"/>
+
+`TypeScript` · `JavaScript` · `Python` · `PHP` · `C++` · `HTML5` · `CSS3`
+
+<br><br>
+
+### DEVOPS, TESTING & TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,jest,postman,jira&theme=dark"/>
+
+`Git` · `GitHub Actions` · `Docker` · `AWS S3` · `Jest` · `Supertest` · `Pytest` · `Playwright` · `Postman` · `Jira`
+
+</div>
+
+---
+
+<div align="center">
+
+# HOW I WORK
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### DESIGN
+
+`REST APIs`
+`Schema design`
+`Service layer`
+`Swagger / OpenAPI`
+
+</td>
+
+<td align="center" width="25%">
+
+### SECURE
+
+`JWT + refresh rotation`
+`OAuth 2.0`
+`RBAC`
+`OTP / 2FA`
+`Helmet`
+`Rate limiting`
+
+</td>
+
+<td align="center" width="25%">
+
+### OPTIMIZE
+
+`Indexing`
+`Server-side pagination`
+`Background jobs`
+`Streaming uploads`
+
+</td>
+
+<td align="center" width="25%">
+
+### SHIP
+
+`GitHub Actions CI/CD`
+`Docker`
+`Jest / Pytest / Playwright`
+`Audit logging`
 
 </td>
 
@@ -227,40 +323,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/RESTFUL%20APIS-512BD4?style=flat-square"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/AUTHENTICATION-7C3AED?style=flat-square"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/DATABASE%20OPTIMIZATION-5B21B6?style=flat-square"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/REDIS%20CACHING-DC2626?style=flat-square"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/SCALABLE%20SYSTEMS-00BFFF?style=flat-square"/>
-
-<br><br>
-
-### `BUILD → OPTIMIZE → SECURE → SHIP`
-
-</div>
-
----
-
-<div align="center">
-
-# SECURITY & AUTHENTICATION
-
-<br>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/OTP-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/2FA-EF4444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OAUTH-EB5424?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HELMET-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RATE_LIMITING-00BFFF?style=for-the-badge"/>
-
-<br><br>
-
-`Authentication` · `Authorization` · `JWT` · `OTP` · `2FA` · `OAuth` · `Helmet.js` · `Rate Limiting` · `Secure API Gateways`
+### `DESIGN → SECURE → OPTIMIZE → SHIP`
 
 </div>
 
@@ -275,36 +338,31 @@
 <img src="https://github-stats-extended.vercel.app/api?username=2yousefreda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=2yousefreda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%"/>
 
-</div>
-
----
-
-<div align="center">
-
-# CONTRIBUTION & STREAK
-
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=2yousefreda&theme=tokyonight&hide_border=true" width="100%"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2yousefreda&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=BUILD.%20OPTIMIZE.%20SECURE.%20SHIP.&fontSize=27&fontColor=00E5FF&fontAlignY=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=DESIGN.%20SECURE.%20OPTIMIZE.%20SHIP.&fontSize=27&fontColor=00E5FF&fontAlignY=50&animation=twinkling"/>
 
 ### `BACK-END DEVELOPER`
 
-**Node.js · NestJS · Express.js · Laravel · Django · Databases · Redis**
+**Node.js · NestJS · Express · Laravel · Django · PostgreSQL · Redis**
 
 <br>
 
 <a href="https://github.com/2yousefreda">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/yousef-red2/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
